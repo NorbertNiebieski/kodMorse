@@ -1,3 +1,3 @@
  #kodMorse
 
-This console program is used to easily learn morse code. It can ask you about single letter or some text in morse code.
+This console program is used to help with learning morse code. With this program you can tranlate text to morse code and hear it, also program can check your knowledge about trlaslating kod morsa to text.
